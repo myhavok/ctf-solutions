@@ -26,4 +26,3 @@ Welcome to my CTF solutions repository! Here, you will find detailed solutions a
 
 Feel free to fork this repository and submit pull requests with additional solutions or improvements.
 
-.

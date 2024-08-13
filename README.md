@@ -1,6 +1,6 @@
 # CTF Solutions
 
-Welcome to my CTF solutions repository! This is what i do for fun! during my freetime.
+Welcome to my CTF solutions repository! This is what i do for fun! 
 
 ## Contents
 
